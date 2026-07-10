@@ -1,0 +1,4 @@
+libportaudio2
+libgl1
+libegl1
+libgles2
